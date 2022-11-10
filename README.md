@@ -1,5 +1,6 @@
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+<h2 align="center">
+  Take a look at my work and let's get in touch!<br>
+  <br>
 
 <p align="center">
   
@@ -15,9 +16,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/8330/8330515.png" width="50"/>
   </a>
   
- <!-- LINE BREAK -->
-  <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
-  
+ <!-- PORTFOLIO -->
+ <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
   
   <!-- Personal Website -->
   <a href= "https://www.noamsiegel.com">
@@ -29,10 +29,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2195/2195529.png" width="50"/>
   </a>
   
-  <!-- LINE BREAK -->
-  <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
-  
 <!-- CS RELATED -->
+<img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
   
   <!-- GitHub  -->
   <a href= "https://github.com/noamsiegel">
