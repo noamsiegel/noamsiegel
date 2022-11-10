@@ -1,7 +1,7 @@
 <br><br>
 
 <!-- THE OPENING HOOK -->
-<h2 align="center">
+<h1 align="center">
   My work speaks for itself. Feel free to ping me.
   <br><br>
 
