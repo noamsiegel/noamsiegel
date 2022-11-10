@@ -20,7 +20,7 @@
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
   </a>
   <!-- YouTube -->
-  <a href="https://www.youtube.com/c/noamsiegel?sub_confirmation=1">
+  <a href="https://www.youtube.com/channel/UCgLua0dz2Yk8x_6xxdKQYOw?sub_confirmation=1">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/youtube-play.png"/>
   </a>
   <!-- Resume !FIX -->
