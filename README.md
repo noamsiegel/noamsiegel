@@ -31,8 +31,8 @@
   <a href="mailto:noam@noamsiegel.com">
     <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
-  <!-- Blog Posts !FIX --> 
-  <a href="https://medium.com/@">
+  <!-- Medium Blog Posts !FIX --> 
+  <a href="medium.com/@noam-siegel">
     <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
   </a>
   <!-- StackOverFlow -->
