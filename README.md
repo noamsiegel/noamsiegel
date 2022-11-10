@@ -5,7 +5,7 @@
 <p align="center">
   <!-- GitHub -->
   <a href= "https://www.linkedin.com/in/noam-siegel/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50"/>
 <!--     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/> -->
   </a>
   <!-- LinkedIn -->
