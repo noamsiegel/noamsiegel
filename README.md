@@ -16,7 +16,7 @@
   </a>
   
   <!-- Transparent Block -->
-  <img src="https://w7.pngwing.com/pngs/995/181/png-transparent-white-sea-white-house-organization-chevrolet-small-block-engine-industry-copywriter-background-elements-angle-food-rectangle-thumbnail.png"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png"/>
   
   <!-- GitHub -->
   <a href= "https://github.com/noamsiegel">
