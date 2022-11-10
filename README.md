@@ -32,7 +32,7 @@
     <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
   <!-- Medium Blog Posts !FIX --> 
-  <a href="medium.com/@noam-siegel">
+  <a href="https:://medium.com/@noam-siegel">
     <img src="https://img.icons8.com/ios-filled/30/689d6a/medium-new.png"/>
   </a>
   <!-- StackOverFlow -->
