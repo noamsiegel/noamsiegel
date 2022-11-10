@@ -16,7 +16,7 @@
   </a>
   
   <!-- Transparent Block -->
-  <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png"/>
+  <img src="https://www.tynker.com/minecraft/api/block?id=577203201ae7a90c3d8b4567&w=400&h=400&width=400&height=400&mode=contain&format=jpg&quality=75&cache=max&v=1467089696"/>
   
   <!-- GitHub -->
   <a href= "https://github.com/noamsiegel">
