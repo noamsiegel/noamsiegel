@@ -1,10 +1,12 @@
+<br><br>
+
+<!-- THE OPENING HOOK -->
 <h3 align="center">
   My work speaks for itself. Feel free to ping me.
   <br><br>
 
+<!-- CONNECTION CENTER -->
 <p align="center">
-  
-<!-- CONNECT SECTION -->
   
   <!-- Email me -->
   <a href="mailto:noam@noamsiegel.com">
@@ -70,3 +72,5 @@
   </a>
  -->
 </p>
+
+<br><br>
