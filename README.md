@@ -21,11 +21,11 @@
  <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
 
   <!-- FIX Personal Website -->
-  <a href= "https://www.noamsiegel.com">
+  <a href= "https://www.linkedin.com/in/noamsiegel/">
     <img src="https://cdn-icons-png.flaticon.com/512/5584/5584030.png" target="_blank" width="50"/>
   </a>
   <!-- FIX Resume -->
-  <a href="">
+  <a href="https://www.linkedin.com/in/noamsiegel/">
     <img src="https://cdn-icons-png.flaticon.com/512/2195/2195529.png" target="_blank" width="50"/>
   </a>
   
