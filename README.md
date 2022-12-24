@@ -21,11 +21,11 @@
  <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
 
   <!-- FIX Personal Website -->
-  <a href= "https://www.linkedin.com/in/noamsiegel/">
+  <a href= "https://www.linkedin.com/in/noam-siegel/">
     <img src="https://cdn-icons-png.flaticon.com/512/5584/5584030.png" target="_blank" width="50"/>
   </a>
   <!-- FIX Resume -->
-  <a href="https://www.linkedin.com/in/noamsiegel/">
+  <a href="https://www.linkedin.com/in/noam-siegel/">
     <img src="https://cdn-icons-png.flaticon.com/512/2195/2195529.png" target="_blank" width="50"/>
   </a>
   
@@ -50,7 +50,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
   
   <!-- LinkedIn -->
-  <a href= "https://www.linkedin.com/in/noamsiegel/">
+  <a href= "https://www.linkedin.com/in/noam-siegel/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="50"/>
   </a>
   <!-- Medium Blog Posts --> 
