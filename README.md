@@ -72,6 +72,10 @@
   </a>
  -->
 </p>
-  
+
+<p>
+
 <!-- Page views counter -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_text=Number%20of%20Profile%20Views)
+
+</p>
