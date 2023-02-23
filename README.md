@@ -75,7 +75,7 @@
 
 
 <!-- Page views counter -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_text=Number%20of%20Profile%20Views)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&center_text=Number%20of%20Profile%20Views) 
 
 <!-- GitHub Stats (with system theme switch) -->
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
