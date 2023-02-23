@@ -75,4 +75,6 @@
 
 <br><br>
 
+# Statistics
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_color=green&right_color=red)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_text=My%20Page%20Visitors)
