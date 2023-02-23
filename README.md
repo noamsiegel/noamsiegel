@@ -73,7 +73,6 @@
  -->
 </p>
 
-<p>
 
 <!-- Page views counter -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_text=Number%20of%20Profile%20Views)
@@ -83,6 +82,4 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
   
 <!-- Random Dev Joke -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</p>
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
