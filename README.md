@@ -73,6 +73,8 @@
  -->
 </p>
 
+<br><br>
+
 <!-- GitHub Stats (with system theme switch) -->
 <!-- [![Noams's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/noam-siegel)
 [![Noams's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=default#gh-light-mode-only)](https://www.linkedin.com/in/noam-siegel)
