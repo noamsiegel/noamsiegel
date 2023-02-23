@@ -12,6 +12,7 @@
 <!---------------------->
 <!-- THE OPENING HOOK -->
 <!---------------------->
+
 <p align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=2000&repeat=true&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=My+work+speaks+for+itself.;Feel+free+to+ping+me!" alt="Typing SVG" />
@@ -23,6 +24,7 @@
 <!----------------------->
 <!-- CONNECTION CENTER -->
 <!----------------------->
+
 <p align="center">
   
   <!-- Email me -->
@@ -50,9 +52,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
   
   <!-- GitHub  -->
-  <a href= "https://github.com/noamsiegel">
+<!--   <a href= "https://github.com/noamsiegel">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" target="_blank" width="50"/>
-  </a>
+  </a> -->
   <!-- StackOverFlow -->
   <a href="https://stackoverflow.com/users/11591960/noam-siegel">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" target="_blank" width="50"/>
@@ -165,24 +167,23 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=noamsiegel&hide_border=true&show_icons=true&theme=transparent&hide_title=true&text_color=6cc644&text_bold=false&show_icons=true&ring_color=6cc644&layout=compact" width="80%" /></div>
 
-<br/>  
+<br/>
 
 
 <!-------------------->
 <!-- SPOTIFY PLAYER -->
 <!-------------------->
 
-<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=6cc644&bar_color_cover=true" /></div>   -->
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&bar_color=6cc644&bar_color_cover=true" style="width:80%;" /></div>
-
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&bar_color=6cc644&bar_color_cover=true" style="width:70%;" />
 <!-- Things added:
 - 80% width
 - Transparent background
 - GitHub Green Text
 -->
-
-<br/>  
+<br>
+  <em>If the music's not playing, I'm not working.</em>
+</div>
+<br/>
 
 
 <!-------------------->
