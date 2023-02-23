@@ -1,10 +1,13 @@
+<!-- Page views counter -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&center_text=Number%20of%20Profile%20Views)
+
 <br><br>
 
 <!-- THE OPENING HOOK -->
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=998&color=F7F7F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=My+work+speaks+for+itself.;Feel+free+to+ping+me!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=2000&repeat=true&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=My+work+speaks+for+itself.;Feel+free+to+ping+me!" alt="Typing SVG" />
 </a>
 </p>
 
@@ -81,13 +84,21 @@
 <br><br><br>
 
 <!-- GitHub Stats (with system theme switch) -->
-<!-- [![Noams's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/noam-siegel)
+
+<!-- 
+[![Noams's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/noam-siegel)
+
 [![Noams's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=default#gh-light-mode-only)](https://www.linkedin.com/in/noam-siegel)
-   -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=transparent)
-  
-<!-- Random Dev Joke -->
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-  
-<!-- Page views counter -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&center_text=Number%20of%20Profile%20Views) 
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) 
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder" width="50%" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noamsiegel)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=noamsiegel&hide_border=true&show_icons=true&theme=transparent&hide_title=true&text_color=6cc644&text_bold=false&show_icons=true&ring_color=6cc644&layout=compact" width="100%" />
