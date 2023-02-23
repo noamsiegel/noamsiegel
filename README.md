@@ -1,9 +1,14 @@
 <br><br>
 
 <!-- THE OPENING HOOK -->
-<h1 align="center">
-  My work speaks for itself. Feel free to ping me.
-  <br><br>
+
+<p align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=998&color=F7F7F7&center=true&vCenter=true&multiline=true&width=500&height=100&lines=My+work+speaks+for+itself.;Feel+free+to+ping+me!" alt="Typing SVG" />
+</a>
+</p>
+
+<br>
 
 <!-- CONNECTION CENTER -->
 <p align="center">
@@ -73,7 +78,7 @@
  -->
 </p>
 
-<br><br>
+<br><br><br>
 
 <!-- GitHub Stats (with system theme switch) -->
 <!-- [![Noams's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/noam-siegel)
