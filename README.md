@@ -51,10 +51,6 @@
 <!-- COMPUTER SCIENCE RELATED -->
 <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
   
-  <!-- GitHub  -->
-<!--   <a href= "https://github.com/noamsiegel">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" target="_blank" width="50"/>
-  </a> -->
   <!-- StackOverFlow -->
   <a href="https://stackoverflow.com/users/11591960/noam-siegel">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" target="_blank" width="50"/>
@@ -68,8 +64,8 @@
 <!-- SOCIAL PLATFORMS -->
 <img src="https://cdn-icons-png.flaticon.com/512/860/860821.png" width="40"/>
   
-  <!-- LinkedIn -->
-<!--   <a href= "https://www.linkedin.com/in/noam-siegel/">
+  <!-- LinkedIn (made personal wesbites route to LinkedIn-->
+  <!-- <a href= "https://www.linkedin.com/in/noam-siegel/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank" width="50"/>
   </a> -->
   <!-- Medium Blog Posts --> 
@@ -93,7 +89,6 @@
 </p>
 
 <div align="center">
-
 <!-- <a href="https://twitter.com/noamsiegel" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -169,30 +164,24 @@
 
 <br/>
 
-
-<!-------------------->
-<!-- SPOTIFY PLAYER -->
-<!-------------------->
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&bar_color=6cc644&bar_color_cover=true" style="width:70%;" />
-<!-- Things added:
-- 80% width
-- Transparent background
-- GitHub Green Text
--->
-<br>
-  <em>If the music's not playing, I'm not working.</em>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=noamsiegel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=6CC644&fire=6CC644&ring=6CC644&sideLabels=6CC644&currStreakNum=6CC644&sideNums=6CC644&currStreakLabel=6CC644" style="width:75%;" />
 </div>
+
 <br/>
 
 
 <!-------------------->
 <!-- RELATED SKILLS -->
 <!-------------------->
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+ 
+ <table style="width:100%; border-collapse:collapse; border=none;">
+  <tr>
+    <td align="center" valign="top" width="33%" style="border-none;">
+      <div>
+        <h3 style="text-align:center;">Front End</h3><br>
+        <p style="text-align:center;">
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
@@ -205,14 +194,15 @@
 <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>
+        </p>
+      </div>
+    </td>
+    <td align="center" valign="top" width="33%" style="border=none;">
+      <div>
+        <h3 style="text-align:center;">Back End</h3><br>
+        <p style="text-align:center;">
+        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -232,30 +222,44 @@
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>
+        </p>
+      </div>
+    </td>
+    <td align="center" valign="top" width="33%" style="border=none;">
+      <div>
+        <h3 style="text-align:center; color: #6cc644;">Dev Ops</h3><br>
+        <p style="text-align:center;">
+        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>  
+<a href="https://www.salesforce.com/in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/salesforce.png" alt="Salesforce" height="50" /></a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-------------------->
+<!-- SPOTIFY PLAYER -->
+<!-------------------->
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&bar_color=6cc644&bar_color_cover=true" style="width:70%;" />
+<!-- Things added:
+- 80% width
+- Transparent background
+- GitHub Green Text
+-->
+<br>
+  <em>If the music's not playing, I'm not working.</em>
 </div>
 
-</td></tr></table>  
-
-<br/>  
-  
+<br/>
 
 <!-- <br/>  
 
