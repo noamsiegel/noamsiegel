@@ -1,6 +1,10 @@
 <!-- Page views counter -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&center_text=Number%20of%20Profile%20Views)
 
+<!-- <div align="center">
+<img src="https://komarev.com/ghpvc/?username=noamsiegel&&style=flat-square" align="center" />
+</div>   -->
+
 <br><br>
 
 <!-- THE OPENING HOOK -->
@@ -70,9 +74,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" target="_blank" width="50"/>
   </a>
   <!-- YouTube -->
-  <a href="https://www.youtube.com/channel/UCgLua0dz2Yk8x_6xxdKQYOw?sub_confirmation=1">
+<!--   <a href="https://www.youtube.com/channel/UCgLua0dz2Yk8x_6xxdKQYOw?sub_confirmation=1">
     <img src="https://cdn-icons-png.flaticon.com/512/3256/3256012.png" target="_blank" width="50"/>
-  </a>
+  </a> -->
 
  <!-- FOR LATER
   <a href="https://www.buymeacoffee.com/">
@@ -82,10 +86,8 @@
 </p>
 
 <div align="center">
-<!-- <a href="https://github.com/noamsiegel" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> -->
-<a href="https://twitter.com/noamsiegel" target="_blank">
+
+<!-- <a href="https://twitter.com/noamsiegel" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/noam-siegel" target="_blank">
@@ -99,7 +101,11 @@
 </a>
 <a href="https://stackoverflow.com/users/11591960/noam-siegel" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
+</a> -->
+  
+<!-- <a href="https://github.com/noamsiegel" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> -->
 <!-- <a href="https://gitlab.com/test" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> -->
@@ -149,10 +155,17 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=noamsiegel&hide_border=true&show_icons=true&theme=transparent&hide_title=true&text_color=6cc644&text_bold=false&show_icons=true&ring_color=6cc644&layout=compact" width="100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=noamsiegel&hide_border=true&show_icons=true&theme=transparent&hide_title=true&text_color=6cc644&text_bold=false&show_icons=true&ring_color=6cc644&layout=compact" width="80%" /></div>
+
+<br/>  
+
+<!-- <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=6cc644&bar_color_cover=true" /></div>   -->
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=6cc644&bar_color_cover=true" style="width:80%;" /></div>
 
 
----
+<br/>  
+
 
 ### Frontend  
 <div align="center">  
@@ -219,17 +232,6 @@
 </td></tr></table>  
 
 <br/>  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color=6cc644&bar_color_cover=true" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=noamsiegel&&style=flat-square" align="center" />
-</div>  
   
 
 <!-- <br/>  
