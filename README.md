@@ -78,4 +78,7 @@
 <!-- Page views counter -->
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_text=Number%20of%20Profile%20Views)
 
+<!-- GitHub Stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noamsiegel)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
