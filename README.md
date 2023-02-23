@@ -76,5 +76,9 @@
 <br><br>
 
 # Statistics
-![visitors](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_color=green&right_color=red) 
+ <br>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&left_text=My%20Page%20Visitors)
+  <br>
+![](https://img.shields.io/endpoint?color=green&label=CustomizedLabel&logo=github&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fvisitor-badge.deno.dev%2Fnoamsiegel.noamsiegel.json)
+  
