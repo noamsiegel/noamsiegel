@@ -15,11 +15,11 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=2000&repeat=true&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=My+work+speaks+for+itself.;Feel+free+to+ping+me!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=false&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=My+work+speaks+for+itself.;Feel+free+to+ping+me!" alt="Typing SVG" />
 </a>
 </p>
 
-<br/>
+<br/><br>
 
 <!----------------------->
 <!-- CONNECTION CENTER -->
@@ -143,37 +143,55 @@
 <!------------------>
 <!-- GitHub Stats -->
 <!------------------>
-
-<!-- PREVIOUS VERSIONS
-[![Noams's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=dark#gh-dark-mode-only)](https://www.linkedin.com/in/noam-siegel)
-
-[![Noams's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=default#gh-light-mode-only)](https://www.linkedin.com/in/noam-siegel)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=transparent)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder) 
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder" width="50%" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noamsiegel)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
--->
-
+<!-- HID BC I DON"T LIKE THE STATS
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=noamsiegel&hide_border=true&show_icons=true&theme=transparent&hide_title=true&text_color=6cc644&text_bold=false&show_icons=true&ring_color=6cc644&layout=compact" width="80%" /></div>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=noamsiegel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=6CC644&fire=6CC644&ring=6CC644&sideLabels=6CC644&currStreakNum=6CC644&sideNums=6CC644&currStreakLabel=6CC644" style="width:75%;" />
 </div>
 
-<br/>
+<br><br>
+
+<!-------------------->
+<!-- SPOTIFY PLAYER -->
+<!-------------------->
+
+<!-- Typerwriter Text -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=false&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=If+the+music+is+playing,;I'm+enjoying+my+work." alt="Typing SVG" />
+</a>
+
+<!--  Spacing  -->
+<br><br>
+  
+<!-- Spotify Playing Widget -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&bar_color=6cc644&bar_color_cover=true" style="width:50%;" />
+<!-- Things added:
+- 80% width
+- Transparent background
+- GitHub Green Text
+-->
+</div>
+
+<br><br>
 
 
 <!-------------------->
 <!-- RELATED SKILLS -->
 <!-------------------->
+<!-- <b/> -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=false&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Here+are+the+tools+I+use!;They+are+constantly+changing." alt="Typing SVG" />
+</a>
+  
+<br/><br>
+
+
  
  <table style="width:100%; border-collapse:collapse; border=none;">
   <tr>
@@ -244,22 +262,6 @@
     </td>
   </tr>
 </table>
-
-<!-------------------->
-<!-- SPOTIFY PLAYER -->
-<!-------------------->
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&bar_color=6cc644&bar_color_cover=true" style="width:70%;" />
-<!-- Things added:
-- 80% width
-- Transparent background
-- GitHub Green Text
--->
-<br>
-  <em>If the music's not playing, I'm not working.</em>
-</div>
-
-<br/>
 
 <!-- <br/>  
 
