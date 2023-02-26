@@ -3,9 +3,8 @@
 <!------------------------>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&center_text=Number%20of%20Profile%20Views" alt="visitor badge">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=noamsiegel.noamsiegel&center_text=Number%20of%20Profile%20Views&color=green">
 </p>
-<br>
 
 <!---------------------->
 <!-- CONNECTION LINKS -->
