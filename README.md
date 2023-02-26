@@ -12,14 +12,22 @@
 <!---------------------->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/noam-siegel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&message=Resume&logo=linkedin&logoColor=white&color=6cc644"></a>
   <a href="mailto:noam@noamsiegel.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&message=Email&logo=gmail&logoColor=white&color=6cc634"></a>
   <a href="https://zcal.co/noam/30min"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Schedule+a+Call&color=6cc624&logo=GoToMeeting&logoColor=white&label="></a>
+</p>
+
+<!------------------>
+<!-- SOCIAL LINKS -->
+<!------------------>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/noam-siegel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&message=Resume&logo=linkedin&logoColor=white&color=6cc644"></a>
   <a href="https://stackoverflow.com/users/11591960/noam-siegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Stack+Overflow&color=6cc614&logo=Stack+Overflow&logoColor=FFFFFF&label="></a>
-  <a href="https://medium.com/@noam-siegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog&color=6cc604&logo=Medium&logoColor=FFFFFF&label="></a>
+  <a href="https://medium.com/@noam-siegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Medium&color=6cc604&logo=Medium&logoColor=FFFFFF&label="></a>
   <a href="https://twitter.com/noamsiegel"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=6cc644&logo=Twitter&logoColor=FFFFFF&label="></a>
 </p>
 <br>
+
 
 <!---------------------->
 <!-- THE OPENING HOOK -->
