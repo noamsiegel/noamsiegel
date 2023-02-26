@@ -179,19 +179,15 @@
 <br><br>
 
 
-<!-------------------->
-<!-- RELATED SKILLS -->
-<!-------------------->
+<!------------------->
+<!-- CODING SKILLS -->
+<!------------------->
 <!-- <b/> -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=false&pause=500&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Here+are+the+tools+I+use!;They+are+constantly+changing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=32&duration=3000&repeat=true&pause=2000&color=6cc644&center=true&vCenter=true&multiline=true&width=900&height=100&lines=The+tools+I+use:" alt="Typing SVG" />
 </a>
-  
-<br/><br>
-
-
  
  <table style="width:100%; border-collapse:collapse; border=none;">
   <tr>
