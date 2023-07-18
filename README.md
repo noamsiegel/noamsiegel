@@ -77,7 +77,7 @@
 <br><br>
 
 <!------------------->
-<!-- CODING SKILLS -->
+<!-- TOOLS I USE -->
 <!------------------->
 
 <div align="center">
