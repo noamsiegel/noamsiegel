@@ -46,6 +46,9 @@
   <img src="https://streak-stats.demolab.com?user=noamsiegel&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=6CC644&fire=6CC644&ring=6CC644&sideLabels=6CC644&currStreakNum=6CC644&sideNums=6CC644&currStreakLabel=6CC644" style="width:75%;" />
 </div>
 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=transparent&text_color=6CC644&title_color=6CC644&border_color=00000000) -->
+
+
 <!-- HID BC I DON"T LIKE IT
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=noamsiegel&hide_border=true&show_icons=true&theme=transparent&hide_title=true&text_color=6cc644&text_bold=false&show_icons=true&ring_color=6cc644&layout=compact" width="80%" /></div>
@@ -75,6 +78,15 @@
 </div>
 
 <br><br>
+
+
+<!-------------------->
+<!---GITHUB STATS 2--->
+<!--------------------
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noamsiegel&show_icons=true&theme=transparent&text_color=6CC644&hide_title=true&border_color=00000000&ring_color=6CC644" style="width:75%;" />
+</div>
 
 <!------------------->
 <!-- TOOLS I USE -->
