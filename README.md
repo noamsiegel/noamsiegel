@@ -70,7 +70,7 @@
   
 <!-- Spotify Playing Widget -->
 <!--<img src="https://spotify-github-profile.vercel.app/api/view?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&bar_color=6cc644&bar_color_cover=true" style="width:50%;" /> -->
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&interchange=false&bar_color_cover=false" style="width:50%;"/>
+<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=12122159562&cover_image=false&theme=default&show_offline=true&background_color=transparent&interchange=false&bar_color_cover=false" style="width:70%;"/>
 <!-- Things added:
 - 80% width
 - Transparent background
