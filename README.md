@@ -8,14 +8,6 @@
 </p>
 -->
 
-<!---------------------->
-<!-- CONNECTION LINKS -->
-<!---------------------->
-
-<p align="center">
-  <a href="mailto:noam@noamsiegel.com"><img style="margin: 10px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&message=Email&logo=gmail&logoColor=white&color=6cc634"></a>
-</p>
-
 <!------------------>
 <!-- SOCIAL LINKS -->
 <!------------------>
